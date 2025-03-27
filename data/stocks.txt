@@ -1,0 +1,5 @@
+TechCorp,104
+GreenEnergy,94
+HealthPlus,96
+skala,98
+happy6team,500

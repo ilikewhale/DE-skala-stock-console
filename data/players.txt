@@ -1,0 +1,8 @@
+skala5,600,TechCorp:100:5|GreenEnergy:80:5
+skala1,9200,GreenEnergy:80:10
+skala2,9000,TechCorp:100:10
+skala3,9400,HealthPlus:120:5
+skala4,9600,GreenEnergy:80:5
+daeun,94,TechCorp:110:7|HealthPlus:96:1
+dani,50000
+newdaeun,9999291,HealthPlus:137:1|TechCorp:98:3|skala:98:3
